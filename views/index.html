@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+
+{% block content %} 
+
+<section id="intro">
+
+  <header>
+      <a href="/">
+          <img src="logo.png" alt="Imagem da logo marca">
+      </a>
+  </header>
+
+  <main>
+    <p>
+      Ficar em casa em períodos logos, não deve ser nada fácil.
+    </p>hideScroll
+
+    <p>
+      Por isso, iremos catalogar ideias,<strong> bricadeiras, jogos, filmes
+      livros, cursos, dicas</strong> e tudo que for necessário para tornar
+      esse momento mais interessante.
+    </p>
+
+    <p>
+      Comece clicando em ver ideias para ver as
+      ideias cadastradas e contribua adicionado a sua ideia.
+    </p>
+  </main>
+
+  <section id="buttons">
+    <button onclick="onOff()">+Adicionar Ideia</button>
+    <a href="/ideias" class="button">Ver Ideias</a>
+  </section>
+  
+  <footer id="footer">
+      Com ❤ <a href="http://localhost/" target="_black">Miliotte</a>
+    </footer>
+</section>
+
+
+<section id="last-ideiais">
+{% include "all_ideias.html"%}
+</section>
+
+{% endblock %}
