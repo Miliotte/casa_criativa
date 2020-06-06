@@ -24,7 +24,7 @@ Seu desenvolvimento ocorreu durante a semana OmniStack 11. O site surgiu com o o
 
 💻 Começando:
 ------------------
-1. Clone este repositório usando: `https://github.com/grioos/workshopdev-casacriativa.git`
+1. Clone este repositório usando: `https://github.com/miliotte/casa_criativa.git`
 2. Vá para o diretório apropriado: `cd workshopdev-casacriativa`
 3. Para instalar todas as dependências, no terminal digite: `npm install`
 4. Digite no terminal  `npm run dev` para iniciar o projeto
