@@ -31,4 +31,4 @@ Seu desenvolvimento ocorreu durante a semana OmniStack 11. O site surgiu com o o
 5. No navegador, digite `http://localhost:3333`
 
 ------------------
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+Feito com :black_heart: by [Ricardo Miliotte](https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166/)
