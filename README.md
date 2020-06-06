@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="public/índice.svg" />
+    <img width="600" src="public/assets/índice.svg" />
 </h1>
 
 <p align="center">
@@ -10,9 +10,9 @@
 ------------------
 Seu desenvolvimento ocorreu durante a semana OmniStack 11. O site surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar suas ideias de uma maneira simples. 
 
-<img src="public/index.PNG" alt="Página index">
-<img src="public/new.PNG" alt="Página nova ideia">
-<img src="public/ideas.PNG" alt="Página ideias">
+<img src="public/assets/index.PNG" alt="Página index">
+<img src="public/assets/new.PNG" alt="Página nova ideia">
+<img src="public/assets/ideas.PNG" alt="Página ideias">
 
 🚀 Tecnologias:
 ------------------
